@@ -25,4 +25,4 @@ const resume = {
 
 }
 const data = Object.entries(resume)
-console.log(data);
+console.log(data); 
